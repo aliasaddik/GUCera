@@ -1,5 +1,5 @@
 # GUCera
-A university  content Management System
+An online courses platform 
 This full stack app was developed on four steps
 **first** the relational model was developed
 1.a relational diagram was drawn --> present in https://github.com/aliasaddik/GUCera/blob/main/milestone1DBgraph.pdf
